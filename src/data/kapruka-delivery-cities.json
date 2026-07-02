@@ -1,0 +1,1479 @@
+{
+  "cities": [
+    {
+      "name": "Agalawatta",
+      "aliases": [
+        "agalawatha"
+      ]
+    },
+    {
+      "name": "Agunukolapelassa",
+      "aliases": [
+        "anguna"
+      ]
+    },
+    {
+      "name": "Ahangama",
+      "aliases": []
+    },
+    {
+      "name": "Ahungalla",
+      "aliases": []
+    },
+    {
+      "name": "Akkareipathuwa",
+      "aliases": [
+        "akkerai oluvil oluwil"
+      ]
+    },
+    {
+      "name": "Akmeemana",
+      "aliases": []
+    },
+    {
+      "name": "Akurana",
+      "aliases": [
+        "poojap ambathanna pojap"
+      ]
+    },
+    {
+      "name": "Akuressa",
+      "aliases": []
+    },
+    {
+      "name": "Alawwa",
+      "aliases": []
+    },
+    {
+      "name": "Aluthgama",
+      "aliases": [
+        "Aluthama"
+      ]
+    },
+    {
+      "name": "Ambalangoda",
+      "aliases": [
+        "anbalan UNAGASWELA",
+        "Ambalangoda City|Gonaduwa|Kahawa|Thotagamuwa"
+      ]
+    },
+    {
+      "name": "Ambanpola",
+      "aliases": [
+        "abanpo"
+      ]
+    },
+    {
+      "name": "Ambepussa",
+      "aliases": [
+        "abepu"
+      ]
+    },
+    {
+      "name": "Ampara",
+      "aliases": [
+        "Ampara City|Wediyangala|Damana|Sammanthurai|Kalmunai"
+      ]
+    },
+    {
+      "name": "Anamaduwa",
+      "aliases": [
+        "pallama"
+      ]
+    },
+    {
+      "name": "Anguruwathota",
+      "aliases": [
+        "aguruwat"
+      ]
+    },
+    {
+      "name": "Anuradhapura",
+      "aliases": [
+        "anuradapura galenbindunuwewa anuradhapue",
+        "Anuradhapura City|Galkulama|Madathugama|Maradankadawala|Nochiyagama|Pahalahalmillewa|Ratmale|Singharagama|Talawa|Tirapana|Vijithpura"
+      ]
+    },
+    {
+      "name": "Aralagamwila",
+      "aliases": []
+    },
+    {
+      "name": "Aranayaka",
+      "aliases": []
+    },
+    {
+      "name": "Athkadura",
+      "aliases": [
+        "ethkand etkand ethkadu athkadu"
+      ]
+    },
+    {
+      "name": "Attanagalla",
+      "aliases": [
+        "athanaga"
+      ]
+    },
+    {
+      "name": "Attidiya",
+      "aliases": [
+        "athidiya"
+      ]
+    },
+    {
+      "name": "Aturugiriya",
+      "aliases": [
+        "athurugiriya ranala"
+      ]
+    },
+    {
+      "name": "Avissawella",
+      "aliases": [
+        "awissawella Dehiovita dehiowita"
+      ]
+    },
+    {
+      "name": "Ayagama",
+      "aliases": []
+    },
+    {
+      "name": "Baddegama",
+      "aliases": [
+        "badega"
+      ]
+    },
+    {
+      "name": "Badulla",
+      "aliases": [
+        "badula Bhadulla",
+        "Badulla City|Beragala|Haputale|Koslanda|Ella|Hali Ela|Passara"
+      ]
+    },
+    {
+      "name": "Baduraliya",
+      "aliases": []
+    },
+    {
+      "name": "Balangoda",
+      "aliases": [
+        "Opanayaka Pabahinna",
+        "Balangoda Main Area|Belihuloya"
+      ]
+    },
+    {
+      "name": "Bandaragama",
+      "aliases": [
+        "Bandaragama City|Kindelpitiya"
+      ]
+    },
+    {
+      "name": "Bandarawela",
+      "aliases": [
+        "diyathalawa haputhale haputale"
+      ]
+    },
+    {
+      "name": "Bangadeniya",
+      "aliases": [
+        "Adippala"
+      ]
+    },
+    {
+      "name": "Batapola",
+      "aliases": []
+    },
+    {
+      "name": "Battaluoya",
+      "aliases": [
+        "bathtalu baththalu Arachchikattuwa Baththuluoya An"
+      ]
+    },
+    {
+      "name": "Battaramulla",
+      "aliases": [
+        "baththaramulla thalangama battramulla koswatte Tha"
+      ]
+    },
+    {
+      "name": "Batticaloa",
+      "aliases": [
+        "batical kattankudy Valaichenai pasikuda",
+        "Paddiruppu|Kaluwanchikudi|Talankuda|Kattankudi|Eravur|Sittandikudi|Thoduvilcholai|Chenkaladi|Rukam|Karadiyanaru|Periyapullumalai|Aittiyanalai|Mahilavaddavan|Korukkapuliyuttu|Vavunativu|Batticaloa City"
+      ]
+    },
+    {
+      "name": "Beliatta",
+      "aliases": [
+        "belliatta beliatha beliattha weeraketiya wirakatiy",
+        "Beliyatta|kottegoda|Thangalla|Walasmulla|Wiraketiya"
+      ]
+    },
+    {
+      "name": "Benthota",
+      "aliases": [
+        "bentota"
+      ]
+    },
+    {
+      "name": "Beruwala",
+      "aliases": [
+        "beruvila"
+      ]
+    },
+    {
+      "name": "Bibila",
+      "aliases": [
+        "bibile"
+      ]
+    },
+    {
+      "name": "Bingiriya",
+      "aliases": []
+    },
+    {
+      "name": "Bogawantalawa",
+      "aliases": [
+        "bagawan"
+      ]
+    },
+    {
+      "name": "Boralesgamuwa",
+      "aliases": [
+        "boralasgamuwa papili borellesgmuwa",
+        "Boralesgamuwa City|Bellanwila"
+      ]
+    },
+    {
+      "name": "Bulathkohupitiya",
+      "aliases": [
+        "bulatkoh"
+      ]
+    },
+    {
+      "name": "Bulathsinghala",
+      "aliases": [
+        "bulatsing"
+      ]
+    },
+    {
+      "name": "Buthala",
+      "aliases": [
+        "buttal"
+      ]
+    },
+    {
+      "name": "Chillaw",
+      "aliases": [
+        "chilaw",
+        "Chillaw City|Udappuwa|Kakkapalliya"
+      ]
+    },
+    {
+      "name": "Colombo 01",
+      "aliases": [
+        "Colombo1"
+      ]
+    },
+    {
+      "name": "Colombo 02",
+      "aliases": [
+        "Slave Colombo2"
+      ]
+    },
+    {
+      "name": "Colombo 03",
+      "aliases": [
+        "Kolpity colpity colombo3"
+      ]
+    },
+    {
+      "name": "Colombo 04",
+      "aliases": [
+        "bambala colombo4"
+      ]
+    },
+    {
+      "name": "Colombo 05",
+      "aliases": [
+        "thimbirigasyaya kirulapona narahenpita thibirigas"
+      ]
+    },
+    {
+      "name": "Colombo 06",
+      "aliases": [
+        "wellawatta walawtha wellawatha colombo6 welawathth"
+      ]
+    },
+    {
+      "name": "Colombo 07",
+      "aliases": [
+        "Colombo7"
+      ]
+    },
+    {
+      "name": "Colombo 08",
+      "aliases": [
+        "borella boralla colombo8"
+      ]
+    },
+    {
+      "name": "Colombo 09",
+      "aliases": [
+        "Colombo9 dematagoda"
+      ]
+    },
+    {
+      "name": "Colombo 10",
+      "aliases": [
+        "maradana"
+      ]
+    },
+    {
+      "name": "Colombo 11",
+      "aliases": [
+        "peta"
+      ]
+    },
+    {
+      "name": "Colombo 12",
+      "aliases": []
+    },
+    {
+      "name": "Colombo 13",
+      "aliases": [
+        "Kotahena"
+      ]
+    },
+    {
+      "name": "Colombo 14",
+      "aliases": [
+        "grandpass"
+      ]
+    },
+    {
+      "name": "Colombo 15",
+      "aliases": [
+        "matakuliya modara mutwal"
+      ]
+    },
+    {
+      "name": "Dambulla",
+      "aliases": [
+        "dambula dambuu"
+      ]
+    },
+    {
+      "name": "Dankotuwa",
+      "aliases": [
+        "dangothuwa dankotuwe yogiyana"
+      ]
+    },
+    {
+      "name": "Dehiathakandiya",
+      "aliases": []
+    },
+    {
+      "name": "Dehiwala",
+      "aliases": [
+        "dehivala dehiwela dehivela"
+      ]
+    },
+    {
+      "name": "Deiyandara",
+      "aliases": [
+        "dehiand"
+      ]
+    },
+    {
+      "name": "Delgoda",
+      "aliases": [
+        "udupil"
+      ]
+    },
+    {
+      "name": "Delkanda",
+      "aliases": []
+    },
+    {
+      "name": "Deltota",
+      "aliases": [
+        "delthot"
+      ]
+    },
+    {
+      "name": "Deniyaya",
+      "aliases": [
+        "Deniyaya City|Morawaka"
+      ]
+    },
+    {
+      "name": "Deraniyagala",
+      "aliases": []
+    },
+    {
+      "name": "Dharga Town",
+      "aliases": [
+        "gargatown darga to"
+      ]
+    },
+    {
+      "name": "Digana",
+      "aliases": [
+        "karalli Teldeniya rajawella"
+      ]
+    },
+    {
+      "name": "Diyabeduma",
+      "aliases": []
+    },
+    {
+      "name": "Dodanduwa",
+      "aliases": [
+        "Dodanduwa City|Dodangoda"
+      ]
+    },
+    {
+      "name": "Dompe",
+      "aliases": []
+    },
+    {
+      "name": "Dunagaha",
+      "aliases": []
+    },
+    {
+      "name": "Dvulapitiya",
+      "aliases": [
+        "devulapitiya dewlapitiya divulapitiya diwulapitiya"
+      ]
+    },
+    {
+      "name": "Eheliyagoda",
+      "aliases": [
+        "aheliyagoda ahaliya"
+      ]
+    },
+    {
+      "name": "Ekala",
+      "aliases": []
+    },
+    {
+      "name": "Elahera",
+      "aliases": [
+        "alahera"
+      ]
+    },
+    {
+      "name": "Elpitiya",
+      "aliases": [
+        "alpitiya Mattaka uragasmanhandiya"
+      ]
+    },
+    {
+      "name": "Embilipitiya",
+      "aliases": [
+        "ambilipitiya"
+      ]
+    },
+    {
+      "name": "Eppawala",
+      "aliases": []
+    },
+    {
+      "name": "Galaha",
+      "aliases": []
+    },
+    {
+      "name": "Galewela",
+      "aliases": []
+    },
+    {
+      "name": "Galgamuwa",
+      "aliases": []
+    },
+    {
+      "name": "Galhinna",
+      "aliases": []
+    },
+    {
+      "name": "Galle",
+      "aliases": [
+        "gale galla Karandeniya karapitiya milidduwa habara",
+        "Gale Main Area|Habaraduuwa|Talpe|Koggala"
+      ]
+    },
+    {
+      "name": "Galnewa",
+      "aliases": []
+    },
+    {
+      "name": "Gampaha",
+      "aliases": [
+        "biyagama udugampola gampha"
+      ]
+    },
+    {
+      "name": "Gampola",
+      "aliases": [
+        "weligall welambo"
+      ]
+    },
+    {
+      "name": "Ganemulla",
+      "aliases": [
+        "ganemula"
+      ]
+    },
+    {
+      "name": "Gangodawila",
+      "aliases": []
+    },
+    {
+      "name": "Gatahetta",
+      "aliases": [
+        "getahet"
+      ]
+    },
+    {
+      "name": "Gelioya",
+      "aliases": []
+    },
+    {
+      "name": "Ginigathhena",
+      "aliases": []
+    },
+    {
+      "name": "Ginthota",
+      "aliases": []
+    },
+    {
+      "name": "Giradurukotte",
+      "aliases": [
+        "girandhurukotte"
+      ]
+    },
+    {
+      "name": "Giriulla",
+      "aliases": []
+    },
+    {
+      "name": "Godagama",
+      "aliases": []
+    },
+    {
+      "name": "Godakawela",
+      "aliases": []
+    },
+    {
+      "name": "Gonapeenuwala",
+      "aliases": [
+        "goonapeen"
+      ]
+    },
+    {
+      "name": "Gothatuwa",
+      "aliases": [
+        "gotatuwa"
+      ]
+    },
+    {
+      "name": "Habarana",
+      "aliases": []
+    },
+    {
+      "name": "Hakmana",
+      "aliases": []
+    },
+    {
+      "name": "Hambanthota",
+      "aliases": [
+        "hambantota ambalanthota Hunagama Ambalantota",
+        "Ambanthota City|Hungama|Ranna|Kahandamodara|Nonagama"
+      ]
+    },
+    {
+      "name": "Hanguranketha",
+      "aliases": [
+        "hagurank"
+      ]
+    },
+    {
+      "name": "Hanwella",
+      "aliases": [
+        "pahathgama"
+      ]
+    },
+    {
+      "name": "Hatton",
+      "aliases": [
+        "haton thalawakale Talawake Kotagala kotagala"
+      ]
+    },
+    {
+      "name": "Henegama",
+      "aliases": []
+    },
+    {
+      "name": "Hettipola Kurunagala",
+      "aliases": []
+    },
+    {
+      "name": "Hettipola Matale",
+      "aliases": []
+    },
+    {
+      "name": "Hikkaduwa",
+      "aliases": [
+        "hikaduwa",
+        "Hikkaduwa City|Meetiyagoda|Kahawa"
+      ]
+    },
+    {
+      "name": "Hingurakgoda",
+      "aliases": [
+        "higurakg"
+      ]
+    },
+    {
+      "name": "Hokandara",
+      "aliases": [
+        "hokandhara"
+      ]
+    },
+    {
+      "name": "Homagama",
+      "aliases": []
+    },
+    {
+      "name": "Horana",
+      "aliases": [
+        "gonapola kahathuduwa pokunuvita gonapola"
+      ]
+    },
+    {
+      "name": "Horawala",
+      "aliases": []
+    },
+    {
+      "name": "Horowpothana",
+      "aliases": [
+        "horowpath"
+      ]
+    },
+    {
+      "name": "Ibbagamuwa",
+      "aliases": []
+    },
+    {
+      "name": "Imaduwa",
+      "aliases": []
+    },
+    {
+      "name": "Ingiriya",
+      "aliases": []
+    },
+    {
+      "name": "Ja-Ela",
+      "aliases": [
+        "jaela Ja ela"
+      ]
+    },
+    {
+      "name": "Jaffna",
+      "aliases": [
+        "jafna maniyarpathi kankasan point pedro",
+        "Omantai|Palamadduikulam|Puliyankulam|Kanakarayankulam|Mankulam|Kokkavil|Iranamadu|Paranthan|Soranpattu|Pallai|Mirusuvil|Kodikamam|Meesalai|Kaitadi|Nuvatkuti|Kokkuvil|Jaffna City"
+      ]
+    },
+    {
+      "name": "Kadawatha",
+      "aliases": [
+        "kadawata delgoda Webada kadwatha mawaramandiya"
+      ]
+    },
+    {
+      "name": "Kadugannawa",
+      "aliases": [
+        "manikdiwela"
+      ]
+    },
+    {
+      "name": "Kaduwala",
+      "aliases": [
+        "kaduwela"
+      ]
+    },
+    {
+      "name": "kahawatta",
+      "aliases": []
+    },
+    {
+      "name": "Kalawana",
+      "aliases": []
+    },
+    {
+      "name": "Kalmunai",
+      "aliases": []
+    },
+    {
+      "name": "Kalpitiya",
+      "aliases": []
+    },
+    {
+      "name": "Kaluthara",
+      "aliases": [
+        "kalutara nagoda kalutara"
+      ]
+    },
+    {
+      "name": "Kamburupitiya",
+      "aliases": [
+        "kaburupit"
+      ]
+    },
+    {
+      "name": "Kandana",
+      "aliases": [
+        "Kadana"
+      ]
+    },
+    {
+      "name": "Kandy",
+      "aliases": [
+        "galagedara"
+      ]
+    },
+    {
+      "name": "Kanthale",
+      "aliases": [
+        "kantale"
+      ]
+    },
+    {
+      "name": "Karagampitiya",
+      "aliases": []
+    },
+    {
+      "name": "Karuwalagaswewa",
+      "aliases": []
+    },
+    {
+      "name": "Kataragama",
+      "aliases": [
+        "katharag katharagama kirinda"
+      ]
+    },
+    {
+      "name": "Katugasthota",
+      "aliases": [
+        "katugastota Galagedara nugawe ambathanna Hiriyalag"
+      ]
+    },
+    {
+      "name": "Katunayaka",
+      "aliases": [
+        "jatunayake"
+      ]
+    },
+    {
+      "name": "Katuneriya",
+      "aliases": []
+    },
+    {
+      "name": "Katupotha",
+      "aliases": []
+    },
+    {
+      "name": "Kegalle",
+      "aliases": [
+        "kegalla"
+      ]
+    },
+    {
+      "name": "Kekirawa",
+      "aliases": [
+        "kakirawa MAHA ELAGAMUWA"
+      ]
+    },
+    {
+      "name": "Kelaniya",
+      "aliases": [
+        "kalaniya keleniya"
+      ]
+    },
+    {
+      "name": "Kesbewa",
+      "aliases": []
+    },
+    {
+      "name": "Kilinochchiya",
+      "aliases": []
+    },
+    {
+      "name": "Kirama",
+      "aliases": []
+    },
+    {
+      "name": "Kiribathgoda",
+      "aliases": [
+        "kiribatgoda"
+      ]
+    },
+    {
+      "name": "Kirindiwela",
+      "aliases": [
+        "kiridiw"
+      ]
+    },
+    {
+      "name": "Kochchikade",
+      "aliases": []
+    },
+    {
+      "name": "Kohuwala",
+      "aliases": [
+        "kohuvala Kohuwela"
+      ]
+    },
+    {
+      "name": "Kolonnawa",
+      "aliases": [
+        "kollonawa kolon walampitiya welampitiya wellam"
+      ]
+    },
+    {
+      "name": "Kosgama",
+      "aliases": [
+        "salawa"
+      ]
+    },
+    {
+      "name": "Koswatha",
+      "aliases": [
+        "koswata koswaththa koswatta"
+      ]
+    },
+    {
+      "name": "Kotte",
+      "aliases": [
+        "pita pitak athul ethul pitako pita kotte madiwela"
+      ]
+    },
+    {
+      "name": "Kuliyapitiya",
+      "aliases": [
+        "kuliyapithiya"
+      ]
+    },
+    {
+      "name": "Kundasale",
+      "aliases": []
+    },
+    {
+      "name": "Kurunegala",
+      "aliases": [
+        "kurunagala kurunegela wawathagama Yalawa Malkaduwa",
+        "Kurunegala City|Pothuhara|Mawathagama|Ibbagamuwa|Gokarella"
+      ]
+    },
+    {
+      "name": "Kuruwita",
+      "aliases": [
+        "Kuruwita City|Parakaduwa"
+      ]
+    },
+    {
+      "name": "Laggala Pallegama",
+      "aliases": []
+    },
+    {
+      "name": "Lunugala",
+      "aliases": []
+    },
+    {
+      "name": "Lunuwila",
+      "aliases": []
+    },
+    {
+      "name": "Madagalla",
+      "aliases": []
+    },
+    {
+      "name": "Madampe",
+      "aliases": [
+        "dummalasooriya dummalasooriya Udubaddaqa Madamp Th"
+      ]
+    },
+    {
+      "name": "Maha oya",
+      "aliases": [
+        "mahaoya"
+      ]
+    },
+    {
+      "name": "Mahabage",
+      "aliases": [
+        "mahaabage"
+      ]
+    },
+    {
+      "name": "Maharagama",
+      "aliases": [
+        "nawina"
+      ]
+    },
+    {
+      "name": "Mahawewa",
+      "aliases": []
+    },
+    {
+      "name": "Mahiyanganaya",
+      "aliases": [
+        "hasalaka"
+      ]
+    },
+    {
+      "name": "Maho",
+      "aliases": [
+        "mahawa"
+      ]
+    },
+    {
+      "name": "Makandura",
+      "aliases": [
+        "makadura"
+      ]
+    },
+    {
+      "name": "Makandura Matara",
+      "aliases": []
+    },
+    {
+      "name": "Malambe",
+      "aliases": [
+        "malabe thalahe thalahena akuregoda"
+      ]
+    },
+    {
+      "name": "Mallawapitiya",
+      "aliases": []
+    },
+    {
+      "name": "Mapalagama",
+      "aliases": []
+    },
+    {
+      "name": "Marandagahamula",
+      "aliases": [
+        "maradagah"
+      ]
+    },
+    {
+      "name": "Maskeliya",
+      "aliases": []
+    },
+    {
+      "name": "Matale",
+      "aliases": [
+        "mathale ukuwela",
+        "Aluwihara|Kaikawela|Mandandawala|Matale City|Nalanda|Palapathwela|Ratthote"
+      ]
+    },
+    {
+      "name": "Matara",
+      "aliases": [
+        "mathara mtara Dickwella dikwella miriswatta",
+        "Matara City|Kamburugamuwa|Kamburupitiya|Hakmana|Makandura"
+      ]
+    },
+    {
+      "name": "Mathugama",
+      "aliases": [
+        "matugam welipanna",
+        "Mathugama City|Baduraliya|Pelawatta"
+      ]
+    },
+    {
+      "name": "Mattegoda",
+      "aliases": [
+        "mathegoda mategoda maththegoda"
+      ]
+    },
+    {
+      "name": "Medamahanuwara",
+      "aliases": [
+        "madamahan"
+      ]
+    },
+    {
+      "name": "Medawachiya",
+      "aliases": [
+        "madawach"
+      ]
+    },
+    {
+      "name": "Melsiripura",
+      "aliases": [
+        "malsiripura"
+      ]
+    },
+    {
+      "name": "Minuwangoda",
+      "aliases": [
+        "kottugoda minwa kotugoda"
+      ]
+    },
+    {
+      "name": "Mirigama",
+      "aliases": [
+        "mihirigama meerigama mirigama",
+        "1300"
+      ]
+    },
+    {
+      "name": "Mirihana",
+      "aliases": [
+        "meerihana"
+      ]
+    },
+    {
+      "name": "Mirissa",
+      "aliases": []
+    },
+    {
+      "name": "Monaragala",
+      "aliases": [
+        "badalkumbura"
+      ]
+    },
+    {
+      "name": "Moragala",
+      "aliases": []
+    },
+    {
+      "name": "Moragollagama",
+      "aliases": []
+    },
+    {
+      "name": "Moratuwa",
+      "aliases": [
+        "agulana Soysapura"
+      ]
+    },
+    {
+      "name": "Morawaka",
+      "aliases": []
+    },
+    {
+      "name": "Mount Lavinia",
+      "aliases": [
+        "Mt lawinia mountlavinia"
+      ]
+    },
+    {
+      "name": "Mullathiv",
+      "aliases": [
+        "Nandikadal"
+      ]
+    },
+    {
+      "name": "Narammala",
+      "aliases": [
+        "naramala dambadeniya dabadeniya"
+      ]
+    },
+    {
+      "name": "Nawagathegama",
+      "aliases": [
+        "navaga"
+      ]
+    },
+    {
+      "name": "Nawala",
+      "aliases": [
+        "navala"
+      ]
+    },
+    {
+      "name": "Nawalapitiya",
+      "aliases": [
+        "navalapitiya Nawapitiya"
+      ]
+    },
+    {
+      "name": "Negombo",
+      "aliases": [
+        "negambo Meegamuwa"
+      ]
+    },
+    {
+      "name": "Nelumdeniya",
+      "aliases": [
+        "Nelumdeniya City|Dedigama"
+      ]
+    },
+    {
+      "name": "Nikaweratiya",
+      "aliases": []
+    },
+    {
+      "name": "Nivithigala",
+      "aliases": []
+    },
+    {
+      "name": "Nuwara Eliya",
+      "aliases": [
+        "nuwaraeliya",
+        "Kandapola|Nuwara Eliya City|Pusallawa|Ragala|Ramboda"
+      ]
+    },
+    {
+      "name": "Padaviya",
+      "aliases": []
+    },
+    {
+      "name": "Palavee",
+      "aliases": []
+    },
+    {
+      "name": "Pamunugama",
+      "aliases": []
+    },
+    {
+      "name": "Panadura",
+      "aliases": [
+        "panadure pandura hirana"
+      ]
+    },
+    {
+      "name": "Panamure",
+      "aliases": []
+    },
+    {
+      "name": "Panchikawatte",
+      "aliases": [
+        "panchikawatta"
+      ]
+    },
+    {
+      "name": "Pannala",
+      "aliases": []
+    },
+    {
+      "name": "Pannipitiya",
+      "aliases": [
+        "panipitiya rukmalgoda"
+      ]
+    },
+    {
+      "name": "Panwila",
+      "aliases": []
+    },
+    {
+      "name": "Pasgoda",
+      "aliases": []
+    },
+    {
+      "name": "Passara",
+      "aliases": []
+    },
+    {
+      "name": "Pasyala",
+      "aliases": []
+    },
+    {
+      "name": "Payagala",
+      "aliases": []
+    },
+    {
+      "name": "Pelawatta Mathugama",
+      "aliases": []
+    },
+    {
+      "name": "Peradeniya",
+      "aliases": [
+        "kiribathkumbura"
+      ]
+    },
+    {
+      "name": "Pilimathalawa",
+      "aliases": [
+        "pillim Pilimatalawa"
+      ]
+    },
+    {
+      "name": "Pitabeddara",
+      "aliases": [
+        "pitabad"
+      ]
+    },
+    {
+      "name": "Pitigala",
+      "aliases": []
+    },
+    {
+      "name": "Polgahawela",
+      "aliases": [
+        "imbulgasdeniya"
+      ]
+    },
+    {
+      "name": "Polgasovita",
+      "aliases": []
+    },
+    {
+      "name": "Polgasowita",
+      "aliases": [
+        "kahathuduwa"
+      ]
+    },
+    {
+      "name": "Polhengoda",
+      "aliases": []
+    },
+    {
+      "name": "Polonnaruwa",
+      "aliases": [
+        "Polonaruwa Area|Minneriya|Medirigiriya|Hingurakgoda"
+      ]
+    },
+    {
+      "name": "Polpithigama",
+      "aliases": [
+        "polpitig"
+      ]
+    },
+    {
+      "name": "Pothuvil",
+      "aliases": [
+        "potuvi pothuw potuw"
+      ]
+    },
+    {
+      "name": "Pussallawa",
+      "aliases": [
+        "pussell"
+      ]
+    },
+    {
+      "name": "Puttalam",
+      "aliases": [
+        "puthala",
+        "Kalladi|Karawalagaswewa|Kottukachi|Mampuri|Talawila|Thonigala|Puthalam Town"
+      ]
+    },
+    {
+      "name": "Radavana",
+      "aliases": []
+    },
+    {
+      "name": "Raddolugama",
+      "aliases": []
+    },
+    {
+      "name": "Ragama",
+      "aliases": [
+        "raagama ragaama"
+      ]
+    },
+    {
+      "name": "Rajagiriya",
+      "aliases": [
+        "ragagiriya"
+      ]
+    },
+    {
+      "name": "Rambukkana",
+      "aliases": [
+        "rabukk thaldewa"
+      ]
+    },
+    {
+      "name": "Rathnapura",
+      "aliases": [
+        "Ratnapura ratnapure",
+        "Rathnapura City|Kahangama"
+      ]
+    },
+    {
+      "name": "Ratmalana",
+      "aliases": [
+        "rathmalana"
+      ]
+    },
+    {
+      "name": "Rikillagskada",
+      "aliases": [
+        "mahapiti"
+      ]
+    },
+    {
+      "name": "Ruwanwella",
+      "aliases": []
+    },
+    {
+      "name": "Seeduwa",
+      "aliases": [
+        "siduw"
+      ]
+    },
+    {
+      "name": "Serunuwara",
+      "aliases": []
+    },
+    {
+      "name": "Sigiriya",
+      "aliases": [
+        "seegir"
+      ]
+    },
+    {
+      "name": "Siyabalaanduwa",
+      "aliases": [
+        "siyambal"
+      ]
+    },
+    {
+      "name": "Sooriyawewa",
+      "aliases": [
+        "suriya",
+        "Sooriyawewa City|Haburugala"
+      ]
+    },
+    {
+      "name": "Thambuthegama",
+      "aliases": [
+        "tambutegama thambuth"
+      ]
+    },
+    {
+      "name": "Thangalle",
+      "aliases": [
+        "tangala tangalle",
+        "Beliyatta|kottegoda|Thangalla|Walasmulla|Wiraketiya"
+      ]
+    },
+    {
+      "name": "Tissamaharamaya",
+      "aliases": [
+        "thissa"
+      ]
+    },
+    {
+      "name": "Trincomalee",
+      "aliases": [
+        "kinniya",
+        "Potankadu|Vannatidal|Tamaraivilu|Uppuveli|Sampaltivu|Kannyai|Pankulam|Kambakkoddai|Gomarankadawela|Nilaveli|Irrakkakandi|Trincomalee Town"
+      ]
+    },
+    {
+      "name": "Udugama",
+      "aliases": []
+    },
+    {
+      "name": "Urapola",
+      "aliases": []
+    },
+    {
+      "name": "Vavuniya",
+      "aliases": [
+        "Vawuniya vauni",
+        "Vavuniya City|Settikulam|Punawa|Iratperiyakulam"
+      ]
+    },
+    {
+      "name": "Vellankulam",
+      "aliases": [
+        "wellan"
+      ]
+    },
+    {
+      "name": "Veyangoda",
+      "aliases": [
+        "weyang ellakk naiwala"
+      ]
+    },
+    {
+      "name": "Wadduwa",
+      "aliases": [
+        "vaddu"
+      ]
+    },
+    {
+      "name": "Waduramba",
+      "aliases": [
+        "wandu vadur vadhura"
+      ]
+    },
+    {
+      "name": "Walapane",
+      "aliases": [
+        "valapan"
+      ]
+    },
+    {
+      "name": "Walasmulla",
+      "aliases": [
+        "valasm"
+      ]
+    },
+    {
+      "name": "Warakapola",
+      "aliases": [
+        "valapak"
+      ]
+    },
+    {
+      "name": "Wariyapola",
+      "aliases": [
+        "variyapola",
+        "Wariyapola city|Padeniya|Mahakeliya"
+      ]
+    },
+    {
+      "name": "Weligama",
+      "aliases": [
+        "Waligama kokmaduwa",
+        "Weligama City|Denipitiya"
+      ]
+    },
+    {
+      "name": "Welikanda Polonnaruwa",
+      "aliases": []
+    },
+    {
+      "name": "Welimada",
+      "aliases": [
+        "walimada MASPANNA maspanna"
+      ]
+    },
+    {
+      "name": "Welisara",
+      "aliases": [
+        "walisara"
+      ]
+    },
+    {
+      "name": "Weliveriya",
+      "aliases": [
+        "Waliveriya weliweriya"
+      ]
+    },
+    {
+      "name": "Wellampitiya",
+      "aliases": [
+        "wallampitiya welamptiya"
+      ]
+    },
+    {
+      "name": "Wellawaya",
+      "aliases": []
+    },
+    {
+      "name": "Wijerama",
+      "aliases": [
+        "Vijerama wijayarama"
+      ]
+    }
+  ],
+  "total": 272
+}

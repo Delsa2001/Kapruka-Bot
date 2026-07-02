@@ -1,0 +1,326 @@
+﻿    </div>
+
+</div>
+
+<div class="second_layout">
+ <div class="rebrandCircles">
+
+
+ <a href="https://www.kapruka.com/online/cakes"><span><img src="/static/image/menu_categories/cake.png?v2" alt="Cakes Image" width="60" height="60"></span><span>Cakes</span></a>
+ <a href="https://www.kapruka.com/online/flowers"><span><img src="/static/image/menu_categories/flowers.png?v2" alt="Flowers Image" width="60" height="60"></span><span>Flowers</span></a>
+ <a href="https://www.kapruka.com/online/chocolates"><span><img src="/static/image/menu_categories/chocolate.png?v2" alt="Chocolates Image" width="60" height="60"></span><span>Chocolates</span></a>
+ <a href="https://www.kapruka.com/online/clothing"><span><img src="/static/image/menu_categories/clothing2.png?v2" alt="Clothing Image" width="60" height="60"></span><span>Clothing</span></a>
+ <a href="https://www.kapruka.com/online/electronics"><span><img src="/static/image/menu_categories/elec.png?v2" alt="Electronics Image" width="60" height="60"></span><span>Electronics</span></a>
+ <a href="https://www.kapruka.com/online/fashion"><span><img src="/images/hand_bags_shoes.jpg?v2" alt="fashion Image" width="60" height="60"></span><span>Fashion</span></a>
+ <a href="https://www.kapruka.com/shops/specialGifts/food_home_page.jsp"><span><img src="/images/food_restaurants_cat.jpg?v1" alt="Food & Restaurants Image" width="60" height="60"></span><span>Food & Restaurants</span></a>
+ <a href="https://www.kapruka.com/online/fruitbaskets"><span><img src="/images/fruitbaskets_cat.jpg?v1" alt="Fruit Baskets Image" width="60" height="60"></span><span>Fruits</span></a>
+ <a href="https://www.kapruka.com/online/softtoy"><span><img src="/images/softtoyskidstoys.jpg?v2" alt="Soft Toys Image" width="60" height="60"></span><span>Soft Toys & Kids Toys</span></a>
+ <a href="https://www.kapruka.com/online/grocery"><span><img src="/static/image/menu_categories/grocery.png?v3" alt="Grocery Items Image" width="60" height="60"></span><span>Grocery & Hampers</span></a>
+ <a href="https://www.kapruka.com/online/greetingcards"><span><img src="/static/image/menu_categories/greeting card.png?v2" alt="Greeting Cards Image" width="60" height="60"></span><span>Greeting Cards & Party Supplies</span></a>
+ <a href="https://www.kapruka.com/online/sports"><span><img src="/images/sportsbicycles.jpg?v2" alt="Sports and Bicycles Image" width="60" height="60"></span><span>Sports and Bicycles</span></a>
+ <a href="https://www.kapruka.com/online/baby"><span><img src="/images/motherbaby.jpg?v1" alt="Mother and Baby Image" width="60" height="60"></span><span>Mother and Baby</span></a>
+ <a href="https://www.kapruka.com/online/jewellery"><span><img src="/static/image/menu_categories/jewl_watc.png?v3" alt="Jewellery and Watches Image" width="60" height="60"></span><span>Jewellery and Watches</span></a>
+ <a href="https://www.kapruka.com/online/cosmetics"><span><img src="/images/perfume_fragrance/cosmetics_cat.png" alt="Cosmetics Image" width="60" height="60"></span><span>Cosmetics & Perfumes</span></a>
+ <a href="https://www.kapruka.com/online/customizedGifts"><span><img src="/images/custom_gifts_cat.png?v2" alt="Customgifts Image" width="60" height="60"></span><span>Customized Gifts</span></a>
+ <a href="https://www.kapruka.com/online/pharmacy"><span><img src="/images/health_wealth.png?v1" alt="Health and wellness Image" width="60" height="60"></span><span>Health and Wellness</span></a>
+ <a href="https://www.kapruka.com/online/home_lifestyle"><span><img src="/images/homelifestyle_cat.jpg?v1" alt="Home & Lifestyle Image" width="60" height="60"></span><span>Home & Lifestyle</span></a>
+ <a href="https://www.kapruka.com/online/giftset"><span><img src="/static/image/menu_categories/giftset.png?v2" alt="Combo and Gift Sets Image" width="60" height="60"></span><span>Combo and Gift Sets</span></a>
+ <a href="https://www.kapruka.com/online/books"><span><img src="/images/soft_toys/books_cat.png" alt="Books" width="60" height="60"></span><span>Books & Stationery</span></a>
+
+
+
+
+    </div>
+</div>
+
+
+
+<div class="main_inner_content_v2 top_v2">
+    
+
+    <!-- app styles -->
+
+    <!-- featured products starts -->
+    <div>
+        
+
+        
+
+<!-- Products Start -->
+
+
+
+
+    
+    
+
+
+    
+        
+            
+        
+    
+
+
+    
+
+
+
+
+<div class="headingCommon">
+    <h2>Featured Products</h2>
+    
+    <a href="https://www.kapruka.com/shops/deliveryCatalogCompact_wide.jsp"><span>Browse All Products</span><?xml version="1.0" ?><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" height="25px" width="25px"><title/><g data-name="Layer 2" id="Layer_2"><path d="M22,9a1,1,0,0,0,0,1.42l4.6,4.6H3.06a1,1,0,1,0,0,2H26.58L22,21.59A1,1,0,0,0,22,23a1,1,0,0,0,1.41,0l6.36-6.36a.88.88,0,0,0,0-1.27L23.42,9A1,1,0,0,0,22,9Z"/></g></svg></a>
+    
+</div>
+
+
+
+<div class="container-fluid">
+    <div class="CatalogueV2Design">
+        
+        <!-- Item Start -->
+
+        
+
+        
+
+
+
+<!-- Product Item Container -->
+<div class="catalogueV2Repeater ">
+
+    
+    <a href="https://www.kapruka.com/buyonline/kapruka-global-shop-price-chec/kid/catsym00419" style="width: 100%; display: inline-block;vertical-align: top;width: 100%;text-decoration: none" data-dfid="catsym00419" data-dfcustomresultid="" >
+        
+
+        <!-- Product Badges Section -->
+        <!-- Best Seller Badge -->
+        
+
+        <!-- Spotlight Badge -->
+        
+
+        <!-- Custom Thumb Text -->
+        
+
+        <!-- Market Price Display -->
+        
+
+        <!-- Product Image Section -->
+        
+
+            <!-- Shirohana Branding -->
+            
+
+            <!-- Product Image -->
+            <img width="150" height="150"
+                 id="pimg_catsym00419"
+                 width=330   height=330 
+                 src="https://static2.kapruka.com/product-image/width=330,quality=93,f=auto/shops/specialGifts/productImages/1776942383439_glob.jpg"
+                fetchpriority='high'   alt="Kapruka Global Shop Price Checker Buy NA Online for specialGifts"
+                 title="Buy NA Kapruka in Sri Lanka">
+
+            <!-- Product Badges Display -->
+            
+
+            
+
+        <!-- Product Details Section -->
+        <div class="catalogueV2textBlock">
+            <!-- Product Name -->
+            <div class="catalogueV2heading">
+                Kapruka Global Shop Price Checker
+            </div>
+
+            <div class="catalogueV2Content">
+                <!-- Price Display -->
+                <div class="CatalogueV2price">
+                    
+                    <span class="catalogueV2converted">From </span>
+                    
+                </div>
+
+                <!-- Add to Cart Section -->
+                
+                <!-- Out of Stock or Other Status -->
+                <div class="catalogueV2Button">
+                    
+                </div>
+                
+
+            </div>
+        </div>
+
+        
+
+        
+    </a>
+    
+
+    <!-- Schema.org Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Kapruka Global Shop Price Checker",
+        "image": "https://static2.kapruka.com/product-image/width=330,quality=93,f=auto/shops/specialGifts/productImages/1776942383439_glob.jpg",
+        "url": "https://www.kapruka.com/buyonline/kapruka-global-shop-price-chec/kid/catsym00419",
+        "brand": { "@type": "Brand", "name": "Kapruka" },
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "LKR",
+            "price": "0",
+            "availability": "http://schema.org/InStock",
+            "seller": { "@type": "Organization", "name": "Kapruka" },
+            "priceValidUntil": "2026-07-05"
+        }
+    }
+
+    </script>
+</div>
+        <!-- Item End -->
+
+        
+        <!-- Item Start -->
+
+        
+
+        
+
+
+
+<!-- Product Item Container -->
+<div class="catalogueV2Repeater ">
+
+    
+    <a href="https://www.kapruka.com/buyonline/father-s-day-royal-blue-choco-/kid/cake00ka002157" style="width: 100%; display: inline-block;vertical-align: top;width: 100%;text-decoration: none" data-dfid="cake00KA002157" data-dfcustomresultid="" >
+        
+
+        <!-- Product Badges Section -->
+        <!-- Best Seller Badge -->
+        
+
+        <!-- Spotlight Badge -->
+        
+
+        <!-- Custom Thumb Text -->
+        
+
+        <!-- Market Price Display -->
+        
+
+        <!-- Product Image Section -->
+        
+
+            <!-- Shirohana Branding -->
+            
+
+            <!-- Product Image -->
+            <img width="150" height="150"
+                 id="pimg_cake00KA002157"
+                 width=330   height=330 
+                 src="https://static2.kapruka.com/product-image/width=330,quality=93,f=auto/shops/cakes/productImages/zoom/1779947231972_dsc05129.jpg"
+                fetchpriority='high'   alt="Father`s Day Royal Blue Choco Love Swiss Roll For Dad  Online for cakes"
+                 title=" Father`s in Sri Lanka">
+
+            <!-- Product Badges Display -->
+            
+
+            
+
+        <!-- Product Details Section -->
+        <div class="catalogueV2textBlock">
+            <!-- Product Name -->
+            <div class="catalogueV2heading">
+                Father`s Day Royal Blue Choco Love Swiss Roll For Dad
+            </div>
+
+            <div class="catalogueV2Content">
+                <!-- Price Display -->
+                <div class="CatalogueV2price">
+                    
+                    <span class="catalogueV2converted">RS.4,250</span>
+                    
+                </div>
+
+                <!-- Add to Cart Section -->
+                
+                <!-- Out of Stock or Other Status -->
+                <div class="catalogueV2Button">
+                    
+                </div>
+                
+
+            </div>
+        </div>
+
+        
+
+        
+    </a>
+    
+
+    <!-- Schema.org Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Father`s Day Royal Blue Choco Love Swiss Roll For Dad",
+        "image": "https://static2.kapruka.com/product-image/width=330,quality=93,f=auto/shops/cakes/productImages/zoom/1779947231972_dsc05129.jpg",
+        "url": "https://www.kapruka.com/buyonline/father-s-day-royal-blue-choco-/kid/cake00ka002157",
+        "brand": { "@type": "Brand", "name": "Kapruka" },
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "LKR",
+            "price": "4250",
+            "availability": "http://schema.org/InStock",
+            "seller": { "@type": "Organization", "name": "Kapruka" },
+            "priceValidUntil": "2026-07-05"
+        }
+    }
+
+    </script>
+</div>
+        <!-- Item End -->
+
+        
+        <!-- Item Start -->
+
+        
+
+        
+
+
+
+<!-- Product Item Container -->
+<div class="catalogueV2Repeater ">
+
+    
+    <a href="https://www.kapruka.com/buyonline/elite-mans-kit/kid/ef_pc_gift0v1133pod00037" style="width: 100%; display: inline-block;vertical-align: top;width: 100%;text-decoration: none" data-dfid="EF_PC_GIFT0V1133POD00037" data-dfcustomresultid="" >
+        
+
+        <!-- Product Badges Section -->
+        <!-- Best Seller Badge -->
+        
+
+        <!-- Spotlight Badge -->
+        
+
+        <!-- Custom Thumb Text -->
+        
+
+        <!-- Market Price Display -->
+        
+
+        <!-- Product Image Section -->
+        
+
+            <!-- Shirohana Branding -->
+            
+
+            <!-- Product Image -->
+            <img width="150" height="150"
+                 id="pimg_EF_PC_GIFT0V1133POD00037"
+                 width=330   height=330 
+                 src="https://static2.kap

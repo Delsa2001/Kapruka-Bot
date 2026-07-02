@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+/* Kapruka.com brand — purple header + gold accents (style_core_2025.css) */
+:root {
+  --kapruka-purple: #402970;
+  --kapruka-purple-deep: #412b73;
+  --kapruka-purple-muted: #5e4e7e;
+  --kapruka-purple-tint: #40297024;
+  --kapruka-gold: #f8db08;
+  --kapruka-gold-hover: #fbdb04;
+  --kapruka-red: #ec1c24;
+  --background: #ffffff;
+  --foreground: #2d1f42;
+  --surface: #f5f4f7;
+  --surface-alt: #f0f0f0;
+  --muted: #737373;
+  --border: #e5e5e5;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-kapruka-purple: var(--kapruka-purple);
+  --color-kapruka-purple-deep: var(--kapruka-purple-deep);
+  --color-kapruka-purple-muted: var(--kapruka-purple-muted);
+  --color-kapruka-gold: var(--kapruka-gold);
+  --color-kapruka-surface: var(--surface);
+  --color-kapruka-muted: var(--muted);
+  --color-kapruka-border: var(--border);
+  --font-sans: var(--font-geist-sans), var(--font-sinhala), system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior: none; /* prevent rubber-band on iOS */
+}
+
+:lang(si),
+[lang="si"] {
+  font-family: var(--font-sinhala), var(--font-geist-sans), system-ui, sans-serif;
+}
+
+:lang(ta),
+[lang="ta"] {
+  font-family: var(--font-tamil), var(--font-geist-sans), system-ui, sans-serif;
+}
+
+/* Kapruka header strip (matches site nav) */
+.kapruka-header {
+  background: linear-gradient(180deg, var(--kapruka-purple-deep) 0%, var(--kapruka-purple) 100%);
+  border-color: var(--kapruka-purple-muted);
+}
+
+.kapruka-section-title::before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 1.1em;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  background: var(--kapruka-gold);
+  border-radius: 2px;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--kapruka-purple-muted);
+  border-radius: 3px;
+}
+
+@media (max-width: 640px) {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
