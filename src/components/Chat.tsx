@@ -265,9 +265,9 @@ export function Chat({ language, onLanguageChange, onReset }: Props) {
               >
                 {[
                   { icon: "🔍", label: "Search anything" },
+                  { icon: "🛒", label: "Groceries & more" },
                   { icon: "🚚", label: "Deliver island-wide" },
                   { icon: "💳", label: "Pay in 60 sec" },
-                  { icon: "🎁", label: "Gift messages" },
                 ].map((f) => (
                   <span
                     key={f.label}
@@ -280,7 +280,7 @@ export function Chat({ language, onLanguageChange, onReset }: Props) {
               </motion.div>
             </div>
 
-            {/* ── Budget Quick-Select — single scrollable row ── */}
+            {/* ── Quick-start prompts — everyday + gifting balanced ── */}
             <motion.div
               initial={{ opacity: 0, y: 4 }}
               animate={{ opacity: 1, y: 0 }}
@@ -288,36 +288,39 @@ export function Chat({ language, onLanguageChange, onReset }: Props) {
               className="w-full max-w-2xl px-3 sm:px-4"
             >
               <p className="mb-1.5 text-center text-[10px] font-semibold uppercase tracking-widest text-kapruka-muted sm:text-[11px]">
-                🎁 Gift budget
+                ✨ What are you shopping for?
               </p>
               <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-thin justify-center">
                 {(
                   uiLanguage === "si"
                     ? [
-                        { label: "Rs. 1,000 ට අඩු", q: "Rs. 1000 ට අඩු gift ekak hoyanna" },
-                        { label: "Rs. 2,500 ට අඩු", q: "Rs. 2500 budget gift ekak hoyanna" },
-                        { label: "Rs. 5,000 ට අඩු", q: "Rs. 5000 ට අඩු lassana gift ekak" },
-                        { label: "Rs. 10,000 ට අඩු", q: "Rs. 10000 ට අඩු premium gift ekak hoyanna" },
+                        { label: "🛒 Groceries", q: "මට සතියේ groceries ටික hoyanna" },
+                        { label: "📱 Electronics", q: "Kapruka electronics section ekata yanna" },
+                        { label: "👗 Fashion", q: "Women's fashion ekata yanna" },
+                        { label: "🎁 Gift ekak", q: "Rs. 3000 budget ekakin gift ekak hoyanna" },
+                        { label: "🎂 Cake ekak", q: "Colombo deliver karanna cake ekak hoyanna" },
                       ]
                     : uiLanguage === "ta"
                       ? [
-                          { label: "Rs. 1,000 கீழ", q: "Rs. 1000 ku keela gift venum" },
-                          { label: "Rs. 2,500 கீழ", q: "Rs. 2500 budget gift venum" },
-                          { label: "Rs. 5,000 கீழ", q: "Rs. 5000 ku keela nalla gift venum" },
-                          { label: "Rs. 10,000 கீழ", q: "Rs. 10000 ku keela premium gift venum" },
+                          { label: "🛒 Groceries", q: "வாரத்திற்கான groceries காட்டுங்கள்" },
+                          { label: "📱 Electronics", q: "Electronics section காட்டுங்கள்" },
+                          { label: "👗 Fashion", q: "Women's fashion காட்டுங்கள்" },
+                          { label: "🎁 Gift venum", q: "Rs. 3000 budget-la gift venum" },
+                          { label: "🎂 Cake venum", q: "Colombo-ku deliver agum cake venum" },
                         ]
                       : [
-                          { label: "Under Rs. 1,000", q: "Find me a great gift under Rs. 1,000" },
-                          { label: "Under Rs. 2,500", q: "Find me a great gift under Rs. 2,500" },
-                          { label: "Under Rs. 5,000", q: "Find me a great gift under Rs. 5,000" },
-                          { label: "Under Rs. 10,000", q: "Find me a great gift under Rs. 10,000" },
+                          { label: "🛒 Groceries", q: "Show me groceries I can order this week" },
+                          { label: "📱 Electronics", q: "Browse Kapruka electronics" },
+                          { label: "👗 Fashion", q: "Show me women's fashion" },
+                          { label: "🎁 Send a gift", q: "Find me a great gift under Rs. 3,000" },
+                          { label: "🎂 Order a cake", q: "I want to order a cake with delivery" },
                         ]
                 ).map((b) => (
                   <button
                     key={b.label}
                     type="button"
                     onClick={() => submit(b.q)}
-                    className="shrink-0 rounded-full border-2 border-kapruka-gold/50 bg-kapruka-gold/10 px-3 py-1.5 text-xs font-bold text-kapruka-purple-deep transition hover:border-kapruka-gold hover:bg-kapruka-gold/20 active:scale-[0.97]"
+                    className="shrink-0 rounded-full border-2 border-kapruka-border bg-white px-3 py-1.5 text-xs font-semibold text-kapruka-purple-deep transition hover:border-kapruka-purple hover:bg-kapruka-surface active:scale-[0.97]"
                   >
                     {b.label}
                   </button>
