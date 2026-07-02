@@ -58,13 +58,6 @@ npm run test:search
 node scripts/test-e2e.mjs
 ```
 
-## Deploy to Vercel (required to win)
-
-1. Push to GitHub  
-2. [vercel.com](https://vercel.com) → Import → root: `kapruka-agent`  
-3. Add env vars from `.env.local`  
-4. Submit live URL before **30 June 2026**
-
 ## Demo script for judges
 
 1. **Browse:** "Browse Kapruka categories" → chips → search in a category  
