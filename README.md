@@ -1,10 +1,10 @@
-# Kapa — Kapruka AI Shopping Agent
+# Kapruka Buddy — Kapruka AI Shopping Agent
 
 Full-screen AI shopping assistant for the [Kapruka Agent Challenge](https://www.kapruka.com/contactUs/agentChallenge.html) — built on the **free Kapruka MCP** (search, categories, delivery, guest checkout, order tracking).
 
 ## What judges are scoring (100 pts)
 
-| Criteria | Points | How Kapa addresses it |
+| Criteria | Points | How Kapruka Buddy addresses it |
 |----------|--------|------------------------|
 | Experience & polish | 30 | Kapruka brand UI, full-screen chat, cart drawer |
 | Visual richness | 20 | Product image cards, carousels, checkout & delivery cards |
@@ -62,7 +62,7 @@ node scripts/test-e2e.mjs
 
 1. **Browse:** "Browse Kapruka categories" → chips → search in a category  
 2. **Shop:** "Show me chocolate under Rs. 10000" → product cards  
-3. **Cart:** Add items → open cart → Checkout with Kapa  
+3. **Cart:** Add items → open cart → Checkout with Kapruka Buddy  
 4. **Delivery:** Colombo, date, recipient details → Kapruka pay link  
 5. **Sinhala:** `අම්මට උපන්දින තෑගි — රු. 5000 ට අඩු`  
 6. **Tanglish:** `Birthday ku chocolate venum — Rs. 10000 ku keela`  
